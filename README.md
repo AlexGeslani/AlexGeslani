@@ -18,7 +18,7 @@ A read-only evidence layer designed to keep provenance, freshness, uncertainty, 
 
 [Repository](https://github.com/AlexGeslani/AutobotCommandCenter) · [68-second application showcase](https://github.com/user-attachments/assets/8cbc2e31-90fd-4c6f-8372-cb9b6e650629)
 
-<img src="https://raw.githubusercontent.com/AlexGeslani/AutobotCommandCenter/f63c7ef65bb98b6294bf74b3ba7a2dcb8b0109b7/docs/screenshots/benchmarks.png" width="900" alt="Autobot Command Center Model Observatory showing exact model conditions, measured benchmark results, and visibly queued evidence">
+<img src="https://raw.githubusercontent.com/AlexGeslani/AutobotCommandCenter/56e635e34fda2b952b398a0ceea69695a08c9485/docs/demo/autobot-command-center-demo-preview.gif" width="900" alt="Animated Autobot Command Center preview moving through its portfolio overview, Model Observatory, and privacy-safe analytics surfaces">
 
 ### 2. Jarvis
 
@@ -28,9 +28,9 @@ Jarvis combines local speech recognition, bounded reasoning, and speech synthesi
 
 **What it demonstrates:** local voice AI can move beyond a desktop prototype into a secured, tested, multi-interface product.
 
-[Repository](https://github.com/AlexGeslani/Jarvis) · [Architecture](https://github.com/AlexGeslani/Jarvis#architecture)
+[Repository](https://github.com/AlexGeslani/Jarvis) · [Architecture](https://github.com/AlexGeslani/Jarvis#architecture) · [72-second application showcase](https://github.com/user-attachments/assets/e9c9649d-99f2-459f-9d77-55a60df1e7fa)
 
-<img src="https://raw.githubusercontent.com/AlexGeslani/Jarvis/8665981be687f12eac0df9a7e7e5016f28035d6e/docs/screenshots/jarvis-browser-response.png" width="900" alt="Terminal-green Jarvis browser cockpit showing a synthetic completed voice-assistant turn">
+<img src="https://raw.githubusercontent.com/AlexGeslani/Jarvis/7a2184e4c6eaa1ee940289304beceda567cabe9b/docs/showcase/jarvis-speaking-preview.gif" width="900" alt="Animated terminal-green Jarvis browser cockpit actively responding to a sanitized synthetic turn">
 
 ### 3. StackLogic
 
@@ -42,7 +42,7 @@ StackLogic pairs a reproducible falling-block game core with solo play, seeded m
 
 [Repository](https://github.com/AlexGeslani/StackLogic) · [Play StackLogic](https://alexgeslani.github.io/StackLogic/)
 
-<img src="https://raw.githubusercontent.com/AlexGeslani/StackLogic/f058d9f3470f71d2a461e8f280a228b25c8cc3b4/docs/screenshots/matrix-gameplay.png" width="900" alt="StackLogic falling-block gameplay using its Matrix visual theme">
+<img src="https://raw.githubusercontent.com/AlexGeslani/StackLogic/00a15644657cd5f1461866902ed7124f88597c4f/docs/screenshots/stacklogic-solo-gameplay.gif" width="900" alt="Animated StackLogic single-player gameplay using its Matrix visual theme">
 
 ### 4. 8 Ball
 
